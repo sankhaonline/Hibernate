@@ -1,0 +1,6 @@
+com\sankha\hibernate\util\HibernateConnectionUtil.class
+com\sankha\hibernate\beans\Movie.class
+com\sankha\vanilla\util\VanillaConnectionUtil.class
+com\sankha\vanilla\VanillaMovieManager.class
+com\sankha\hibernate\HibernateMovieManager.class
+com\sankha\App.class
